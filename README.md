@@ -1,4 +1,4 @@
-# Sentence-Similarity-LLM-course-
+# Sentence Similarity in LLM course 
 
 **Dataset**
 
